@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👨‍💻 Who Am I?
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">
 
 I am **P Kavya Sai**
 * 🎓 Computer Science Engineering Student specializing in Natural Language Processing (NLP)
